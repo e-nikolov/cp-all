@@ -1,0 +1,10 @@
+nbCarTypes = 2;
+nbOptions = 2;
+nbSlots = 12;
+demand = [6, 6];
+option = [
+           [1, 0],
+           [0, 1]
+        ]; 
+maxSequence = [2,2];
+minSequence = [3,2];

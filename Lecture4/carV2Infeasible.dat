@@ -1,0 +1,9 @@
+nbCarTypes = 3;
+nbOptions = 3;
+nbSlots = 12;
+demand = [4, 4, 4];
+option = [
+           [ 1, 1, 0],
+           [ 1, 0, 1],
+           [ 0, 1, 1]
+        ]; 

@@ -1,0 +1,3 @@
+SheetConnection sheet("house12.xls");
+
+Activities from SheetRead(sheet,"Activities");

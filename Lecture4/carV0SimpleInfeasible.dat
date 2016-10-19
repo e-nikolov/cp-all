@@ -1,0 +1,3 @@
+nbCarTypes = 1;
+nbSlots = 12;
+demand = [12];

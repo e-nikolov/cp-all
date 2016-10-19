@@ -1,0 +1,23 @@
+ColorNames = 
+	{"red", "white", "blue", "green"}; 
+	
+Countries = 
+	{"Belgium",
+	 "Denmark",
+	 "France",
+	 "Germany",
+	 "Luxembourg",
+	 "Netherlands"
+};	 
+
+Borders =
+{<"Belgium", "France">,
+ <"Belgium", "Germany">, 
+ <"Belgium", "Luxembourg">, 
+ <"Belgium", "Netherlands">, 
+ <"Denmark", "Germany">, 
+ <"France", "Germany">, 
+ <"France", "Luxembourg">, 
+ <"Germany", "Luxembourg">, 
+ <"Germany", "Netherlands">
+};  

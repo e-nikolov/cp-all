@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config category="opl" default="false" name="Configuration1">
+			<ref name="magicSquareSkeleton.mod" type="model">
+			</ref>
+			<ref name="settings.ops" type="setting">
+			</ref>
+			<ref name="msinfeasible5.dat" type="data">
+			</ref>
+		</config>
+		<config category="opl" default="true" name="cars">
+			<ref name="carV0Skeleton.mod" type="model">
+			</ref>
+			<ref name="carV2Hard.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

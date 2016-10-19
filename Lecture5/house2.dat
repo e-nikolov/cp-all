@@ -1,0 +1,4 @@
+SheetConnection sheet("house2.xls");
+
+Activities from SheetRead(sheet,"Activities");
+Precedences from SheetRead(sheet,"Precedences");

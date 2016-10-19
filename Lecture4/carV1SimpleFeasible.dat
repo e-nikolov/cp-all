@@ -1,0 +1,4 @@
+blocksize = 2;
+nbCarTypes = 3;
+nbSlots = 9;
+demand = [3,3,3];

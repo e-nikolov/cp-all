@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config category="opl" default="false" name="Configuration1">
+			<ref name="Lecture3.mod" type="model">
+			</ref>
+			<ref name="Lecture3.ops" type="setting">
+			</ref>
+			<ref name="Lecture3.dat" type="data">
+			</ref>
+		</config>
+		<config category="opl" default="false" name="colorSkeleton">
+			<ref name="colorSkeleton.mod" type="model">
+			</ref>
+		</config>
+		<config category="opl" default="false" name="color">
+			<ref name="color.mod" type="model">
+			</ref>
+		</config>
+		<config category="opl" default="true" name="colorGenericSkeleton">
+			<ref name="colorGenericSkeleton.mod" type="model">
+			</ref>
+			<ref name="6countries.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
