@@ -1,0 +1,7 @@
+[submodule "Ass1"]
+	path = Ass1
+	url = https://github.com/e-nikolov/cp-assignment1
+
+[submodule "Ass2"]
+	path = Ass2
+	url = https://github.com/e-nikolov/cp-assignment2
